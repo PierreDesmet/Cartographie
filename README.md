@@ -2,7 +2,8 @@
 
 Envie de produire une carte simplement et en 5mn chrono ?
 
-<img src='https://i.imgur.com/SFq1ckT.png'/>
+<center><img width=300px src='https://i.imgur.com/SFq1ckT.png'/></center>
+
 ## Ingrédients : 
 - une table Excel dotée :
 - d'une colonne numérique, p. ex. un nombre de salariés, une température...
@@ -10,7 +11,7 @@ Envie de produire une carte simplement et en 5mn chrono ?
 - de Folium d'installé ("pip install folium")
 
 ## Dans ce projet se trouvent : 
-- un package carto_degrade.py et un dossier geojsons => pas touche.
+- un package carto_degrade.py et un dossier geojsons → pas touche.
 - des excels/csv exemples, ne servant qu'à illustrer le fonctionnement du package
 - le notebook "Cartographie pierrou.ipynb" illustrant simplement le fonctionnement du package à partir des excels/csv exemples
 - deux exemples de sorties html, l'un pour la maille "département", l'autre pour la maille "région"

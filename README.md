@@ -1,11 +1,11 @@
 # Cartographie
 
-Envie de produire une carte simplement et en 5mn chrono ?
+Envie de produire une carte HTML simplement et en 5mn chrono ?
 
-<img style='align:center' width=500px src='https://i.imgur.com/SFq1ckT.png'/>
+<img style='text-align:center' width=500px src='https://i.imgur.com/SFq1ckT.png'/>
 
 ### Ingrédients : 
-- une table Excel dotée :
+Une table Excel dotée :
 - d'une colonne numérique, p. ex. un nombre de salariés, une température...
 - d'une colonne avec les noms des régions ou des départements de France (voir "departments_regions_france_2016.csv")
 - de Folium d'installé ("pip install folium")

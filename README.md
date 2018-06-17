@@ -2,7 +2,7 @@
 
 Envie de produire une carte simplement et en 5mn chrono ?
 
-<img align='center' width=300px src='https://i.imgur.com/SFq1ckT.png'/>
+<img style='align:center' width=500px src='https://i.imgur.com/SFq1ckT.png'/>
 
 ### Ingrédients : 
 - une table Excel dotée :
